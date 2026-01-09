@@ -11,4 +11,8 @@ Spring Boot, REST API using Java 21 and PostgreSQL to manage and search Premier 
 - Built 8+ RESTful endpoints with proper HTTP methods (GET, POST, PUT, DELETE), status 
   codes, and JSON serialization using Java 8 Streams API
 - Migrated CSV-based player data (15+ statistical attributes) into normalized PostgreSQL 
-  database with optimized indexing and transaction management
+  database with optimized indexing and transaction management.
+
+  OUTPUT : SCREENSHOTS
+
+![image alt](https://github.com/KNShreyas/Premier-League-Player-Statistics-Java-Backend-API-/blob/086a1e2996b7efb2f59ab83cb31960e527f4331e/Every%20Player%20Details%20Screenshot.png)
