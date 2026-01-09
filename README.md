@@ -13,7 +13,7 @@ Spring Boot, REST API using Java 21 and PostgreSQL to manage and search Premier 
 - Migrated CSV-based player data (15+ statistical attributes) into normalized PostgreSQL 
   database with optimized indexing and transaction management.
 
-  OUTPUT : SCREENSHOTS
+  RESULTS: SCREENSHOTS
 
 ![image alt](https://github.com/KNShreyas/Premier-League-Player-Statistics-Java-Backend-API-/blob/086a1e2996b7efb2f59ab83cb31960e527f4331e/Every%20Player%20Details%20Screenshot.png)
 
